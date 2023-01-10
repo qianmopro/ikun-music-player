@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(电子钢琴.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Music player.cpp
+C:\Users\qianmo\source\repos\电子钢琴\电子钢琴\Music player.cpp(61,75): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+  电子钢琴.vcxproj -> C:\Users\qianmo\source\repos\电子钢琴\x64\Debug\Music player.exe
